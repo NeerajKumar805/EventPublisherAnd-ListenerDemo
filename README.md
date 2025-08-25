@@ -106,8 +106,3 @@ Handling event for user: Neeraj
 ---
 
 ```
-
----
-
-👉 Neeraj, do you want me to also add a **section about the built-in Spring Boot events** (like `ContextRefreshedEvent`, `ApplicationReadyEvent`, etc.) to this README so it feels more complete?
-```
